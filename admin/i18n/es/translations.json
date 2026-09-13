@@ -1,6 +1,6 @@
 {
     "Email": "Usuario/Correo electrónico",
-    "Password": "Contraseña",
+    "Password": "Clave",
     "Please wait while loading Adapter-Status ...": "Por favor, espere mientras se carga el adaptador de estado ...",
     "ProxyInfo": "Haga clic <a href=\"%s\" target=\"_blank\">aquí para iniciar sesión en su cuenta de Amazon una vez</a> para activar la conexión a sus dispositivos Alexa para esta instancia.",
     "Settings": "Ajustes",
